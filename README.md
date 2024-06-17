@@ -3,6 +3,8 @@
 Advanced Option Pricing Models
 This project demonstrates the implementation of advanced option pricing models for European and American call options, incorporating real-time market data integration, sensitivity analysis, and machine learning predictions. The project is developed in Python and is aimed at providing a comprehensive tool for quantitative finance applications.
 
+
+
 Features:
 
 Black-Scholes Model: Pricing European call options.
@@ -21,6 +23,8 @@ Machine Learning Predictions: Predicting volatility smirks and smiles using ML a
 
 User-Interactive Python Application: Allowing selection between European and American options for analysis.
 
+
+
 Usage:
 
 Run the main script
@@ -32,6 +36,8 @@ Example-
 Enter tickers separated by commas: GOOGL, AAPL
 
 Enter option type (european/american): american
+
+
 
 
 Main Functions:
